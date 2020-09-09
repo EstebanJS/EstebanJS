@@ -1,5 +1,5 @@
 <h2> Hi, I'm Esteban Jimenez! 👨🏻‍💻</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/41396044/92626424-82631c80-f28f-11ea-9450-4410852b9686.jpg" width="230">
 <p><em>System Enginner at <a href="https://www.ucundinamarca.edu.co/">University of Cundinamarca</a>
 </em></p>
 
