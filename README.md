@@ -1,7 +1,7 @@
-# Bienvenido 👋
-
-### Siempre habrá algo nuevo que que aprender y una razon más para mejorar.
-> solo sé que nada sé. — Sócrates (470-399 a. de C.)
+<h2> Hi, I'm Esteban Jimenez! 👨🏻‍💻</h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>System Enginner at <a href="https://www.ucundinamarca.edu.co/">University of Cundinamarca</a>
+</em></p>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EstebanJS_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=EstebanJS_)
