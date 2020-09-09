@@ -5,6 +5,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EstebanJS_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=EstebanJS_)
+[![GitHub EstebanJS](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/EstebanJS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanJS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
