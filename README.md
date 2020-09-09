@@ -1,4 +1,4 @@
-<h2> Hi, I'm Esteban Jimenez! 👨🏻‍💻</h2>
+<h2> Hi, I'm Esteban Jiménez! 👨🏻‍💻</h2>
 <img align='right' src="https://user-images.githubusercontent.com/41396044/92626424-82631c80-f28f-11ea-9450-4410852b9686.jpg" width="230">
 <p><em>System Enginner at <a href="https://www.ucundinamarca.edu.co/">University of Cundinamarca</a>
 </em></p>
@@ -6,8 +6,8 @@
 <p>
 Hello, I am a systems engineering student at the University of Cundinamarca passionate about JavaScript web technologies</p>
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/EstebanJS_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=EstebanJS_)
+[![Twitter: EstebanJS](https://img.shields.io/twitter/follow/EstebanJS_?style=social)](https://twitter.com/EstebanJS_)
+[![Linkedin: Esteban Jiménez](https://img.shields.io/badge/-Esteban_Jimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeisson-esteban-jimenez-bustos-564b8116b//)](https://www.linkedin.com/in/yeisson-esteban-jimenez-bustos-564b8116b/)
 [![GitHub EstebanJS](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/EstebanJS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanJS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,12 +29,3 @@ Hello, I am a systems engineering student at the University of Cundinamarca pass
 * <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> **GitHub**
 - <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> **UNIX/Terminal**
 
----
-### Contact me:
-
-[<img align="left" alt="EstebanJS_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[twitter]: https://twitter.com/EstebanJS_
-[linkedin]: https://www.linkedin.com/in/yeisson-esteban-jimenez-bustos-564b8116b/
