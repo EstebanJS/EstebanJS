@@ -3,13 +3,16 @@
 <p><em>System Enginner at <a href="https://www.ucundinamarca.edu.co/">University of Cundinamarca</a>
 </em></p>
 
+<p>
+Hello, I am a systems engineering student at the University of Cundinamarca passionate about JavaScript web technologies</p>
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EstebanJS_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=EstebanJS_)
 [![GitHub EstebanJS](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/EstebanJS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanJS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Lenguajes y herramientas:
+### Languages and Tools:
 
 * <img align="left" alt="Visual Studio Code"       width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> **Vs Code**
 - <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> **HTML5**
@@ -27,7 +30,7 @@
 - <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> **UNIX/Terminal**
 
 ---
-### Contactame:
+### Contact me:
 
 [<img align="left" alt="EstebanJS_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
