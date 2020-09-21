@@ -8,7 +8,7 @@ Hello, I am a systems engineering student at the University of Cundinamarca pass
 
 [![Twitter: EstebanJS](https://img.shields.io/twitter/follow/EstebanJS_?style=social)](https://twitter.com/EstebanJS_)
 [![Linkedin: Esteban Jiménez](https://img.shields.io/badge/-Esteban_Jimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeisson-esteban-jimenez-bustos-564b8116b//)](https://www.linkedin.com/in/yeisson-esteban-jimenez-bustos-564b8116b/)
-[![GitHub EstebanJS](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/EstebanJS)
+[![GitHub EstebanJS](https://img.shields.io/github/followers/EstebanJS?label=follow&style=social)](https://github.com/EstebanJS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanJS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
