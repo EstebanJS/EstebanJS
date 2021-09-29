@@ -1,5 +1,5 @@
 <h2> Hi, I'm Esteban Jiménez! 👨🏻‍💻</h2>
-<img align='right' src="https://user-images.githubusercontent.com/41396044/94162562-76a95580-fe4c-11ea-9be4-432677579e4c.png" width="230">
+<img align='right' src="https://firebasestorage.googleapis.com/v0/b/portafolio-9b41a.appspot.com/o/logo_short.png?alt=media&token=bc38a3f1-e1d4-49e3-a255-8f960419e734" width="230">
 <p><em>System Enginner at <a href="https://www.ucundinamarca.edu.co/">University of Cundinamarca</a>
 </em></p>
 
